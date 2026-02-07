@@ -3,10 +3,8 @@
 #include <iostream>
 #include <cctype>
 
-// A witty and insightful comment
-
 namespace tic {
-
+    // Be nice!
 
 const std::string cellIds = "abcdefghi";
 
