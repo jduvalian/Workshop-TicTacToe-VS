@@ -20,7 +20,7 @@ std::ostream& operator <<(std::ostream& os, Board::Cell cell) {
 
 
 void ConsoleUI::welcome() {
-    std::cout << "Welcome to Tic-Tac-Toe!\n";
+    std::cout << "Welcome to my awsome Tic-Tac-Toe game!\n";
 }
 
 
