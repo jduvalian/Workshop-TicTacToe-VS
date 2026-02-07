@@ -2,7 +2,7 @@
 # Add source to this project's executable.
 add_library(TicTacLib
 	src/board.cpp
-	src/console.cpp
+	src/command.cpp
  )
 
 # Define language standard
